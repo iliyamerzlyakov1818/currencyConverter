@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Валюты</string>
+    <string name="back">Назад</string>
+    <string name="rate_today">Курс валют на</string>
+    <string name="rate">Курс:</string>
+    <string name="equal_sign">=</string>
+    <string name="initial">0</string>
+
+    <string-array name="currencies">
+        <item>RUB</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>AZN</item>
+        <item>GBP</item>
+        <item>AMD</item>
+        <item>BYN</item>
+        <item>BGN</item>
+    </string-array>
+
+    <string-array name="currencies_names">
+        <item>Российский рубль</item>
+        <item>Доллар США</item>
+        <item>Евро</item>
+        <item>Японская йена</item>
+        <item>Австралийский доллар</item>
+        <item>Азербайджанский манат</item>
+        <item>Британский фунт стерлинга</item>
+        <item>Армянский драм</item>
+        <item>Белорусский рубль</item>
+        <item>Болгарский лев</item>
+    </string-array>
+
+    <string-array name="currencies_signs">
+        <item>₽</item>
+        <item>$</item>
+        <item>€</item>
+        <item>¥</item>
+        <item>$</item>
+        <item>₼</item>
+        <item>£</item>
+        <item>֏</item>
+        <item>Br</item>
+        <item>лв</item>
+    </string-array>
+</resources>
