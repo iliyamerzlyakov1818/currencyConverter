@@ -79,7 +79,6 @@ public class ConverterActivity extends AppCompatActivity {
 
     /**
      * Определяет номер выбранной валюты.
-     *
      * @param currency международный код выбранной валюты.
      * @return номер выбранной валюты.
      */
